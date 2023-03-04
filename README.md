@@ -6,11 +6,10 @@ My first ever python "project"
 
 I ask a bunch of questions to test IF and ELSE statements in the terminal. There are also print commands.
 
-## Getting Started
-
 ### Dependencies
 
-* Install python
+* Install python!
+* Launch your code editer and add python extension!
 
 
 ### Installing
