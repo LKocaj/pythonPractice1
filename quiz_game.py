@@ -37,3 +37,4 @@ else:
     print("Incorrect!")
 
 print("You got " + str(score) + " questions correct!") # Score at end
+print("You got " + str((score/4) * 100) + "%") # Percent at end
