@@ -15,7 +15,7 @@ I ask a bunch of questions to test IF and ELSE statements in the terminal. There
 ### Installing
 
 * Download folder 
-* open in IDE 
+* open in code editer 
 
 ### Executing program
 
