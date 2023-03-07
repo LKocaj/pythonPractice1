@@ -1,3 +1,4 @@
 import random
 
-r = print(random.randrange(-5, 11))
+r = random.randint.randrange(-5, 11)
+print(r)

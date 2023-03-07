@@ -1,10 +1,12 @@
 # Python Quiz game
 
-My first ever python "project"
+First python "projects"
 
 ## Description
 
 # Project 1 - QUiz game I ask a bunch of questions to test IF and ELSE statements in the terminal. There are also print commands.
+
+# Project 3 - Youtube downloader - Lets you download a youtube link (as long as user gives permission or code will throw error)
 
 ### Dependencies
 
