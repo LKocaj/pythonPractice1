@@ -1,5 +1,11 @@
 import tkinter as tk
 
+root = tk.Tk() # This creates the main window of the tkinter application
+total_expenses_label = tk.Label(root, text="Total Expenses: $0.00")
+total_expenses_label.pack()
+
+root.mainloop() # This runs the Tkinter event loop which handles user input and updates the GUI
+
 # create a Tkinter window
 window = tk.Tk()
 window.title("Budget Tracker")
@@ -109,3 +115,11 @@ def update_budget():
     # Update the labels with the new information
     total_expenses_label.config(text="Total Expenses: $%.2f" % total_expenses)
     net_income_label.config(text="Net Income: $%.2f" % net_income)
+
+    # Create the labels to display the total expenses and net income
+total_expenses_label = tk.Label(root, text="Total Expenses: $0.00")
+total_expenses_label.pack()
+
+# Create the labels to display the total expenses and net income
+net_income_label = tk.Label(root, text="Total Expenses: $0.00")
+net_income_label.pack()
